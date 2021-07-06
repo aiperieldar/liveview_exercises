@@ -1,1 +1,1 @@
-# liveview_exercises
+# Phoenix LiveView Exercises
